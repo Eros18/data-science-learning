@@ -1,1 +1,0 @@
-# Apuntes para completar Data Scientist in Python de Dataquest

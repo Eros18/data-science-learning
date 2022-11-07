@@ -5,7 +5,7 @@ Link : https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=1056s
 - [Introducción](#Introducción)
 - [Primera Parte](#Primera-Parte)
     * [Resumen](#Resumen)
-    * [0-20](#0-20)
+    * [0-22](#0-22)
 
 # Introducción
 Esta parte del repositorio sera un resumén de todo el curso de Python for Data Science - Course for Beginners dictado por FreeCodeCamp o al menos de las partes que considero importantes en mi aprendizaje. 
